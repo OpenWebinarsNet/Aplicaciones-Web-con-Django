@@ -1,0 +1,5 @@
+https://docs.djangoproject.com/es/4.2/ref/class-based-views/base/
+https://docs.djangoproject.com/en/4.2/ref/class-based-views/generic-display/
+
+
+

@@ -1,0 +1,2 @@
+https://www.timetoast.com/timelines/historia-de-los-frameworks
+https://docs.djangoproject.com/es/4.2/

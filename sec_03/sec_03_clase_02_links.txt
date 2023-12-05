@@ -1,0 +1,2 @@
+https://docs.djangoproject.com/es/4.2/topics/db/queries/
+
